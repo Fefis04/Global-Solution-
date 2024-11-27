@@ -1,20 +1,29 @@
-<<<<<<< HEAD
-# gs_fiap
+EnergyPlan
 
-A new Flutter project.
+Descrição
+EnergyPlan é um aplicativo desenvolvido em Flutter que permite o controle inteligente de dispositivos e a otimização do consumo de energia.
 
-## Getting Started
+ Funcionalidades
+-  Controle Inteligente de Dispositivos:  Controle remoto de dispositivos e sugestões de desligamento automático.
+-  Otimização de Consumo de Energia:  Melhores práticas e recomendações personalizadas de consumo.
 
-This project is a starting point for a Flutter application.
+ Prototipação
+O mockup das interfaces foi  criado pelo paint. 
 
-A few resources to get you started if this is your first Flutter project:
+Arquitetura de Microsserviços
+-  Frontend (Flutter) : Interface do usuário e interações.
+-  Serviço de Autenticação : Gerenciamento de usuários e autenticação.
+-  Serviço de Controle de Dispositivos : Gerenciamento e controle de dispositivos.
+-  Serviço de Otimização de Consumo : Recomendações de consumo.
+- Serviço de Alertas e Notificações : Monitoramento e envio de alertas.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ Boas Práticas de Gerenciamento de Memória
+- Uso de widgets leves e otimizados.
+- Lazy Loading para carregamento de dados.
+- Gerenciamento eficiente de estados com Provider.
+- Descarte de recursos não utilizados.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Global-Solution-
->>>>>>> 66b452a14407e1d656fda96ea16dc9009a5cbdb6
+Execução do Projeto
+Clonar o repositório para a sua máquina;
+Execute pelo terminal “flutter run”;
+
