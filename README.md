@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gs_fiap
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Global-Solution-
+>>>>>>> 66b452a14407e1d656fda96ea16dc9009a5cbdb6
